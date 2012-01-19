@@ -2,7 +2,7 @@
 
 Name:           kde-plasma-lionmail
 Version:        0.1
-Release:        1%{?dist}.R
+Release:        1%{?dist}
 Summary:        Email notifier plasmoid
 
 Group:          User Interface/Desktops
